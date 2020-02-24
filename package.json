@@ -1,16 +1,16 @@
 {
   "name": "feathersjs-with-es-6-import-export",
-  "description": "",
-  "version": "0.0.0",
-  "homepage": "",
-  "private": true,
+  "description": "Use es6 import/export syntax in feathersjs by using babeljs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/santanup/feathersjs-with-es6-import-export",
+  "private": false,
   "main": "src",
   "keywords": [
     "feathers"
   ],
   "author": {
     "name": "Santanu Prasad Sahoo",
-    "email": "santanup@lecturenotes.in"
+    "email": "sahoosantanu92@gmail.com"
   },
   "contributors": [],
   "bugs": {},

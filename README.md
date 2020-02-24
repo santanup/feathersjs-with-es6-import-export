@@ -3,7 +3,9 @@
 > 
 
 ## About
+feathersjs with es6 import/export. Use es6 import/export syntax in feathersjs by using babeljs.
 
+## About Feathers
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
 ## Getting Started
